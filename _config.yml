@@ -1,16 +1,18 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "GISP 2023 2024"
+#title_right   : "space" # default: ""
+description   : "Fun GISP project page for 2023 2024"
+keywords      : "Jekyll, theme, free, download, SEO, blog, web, 
+minimalist, thinkspace"
+url           : https://grndng.github.io/GISP # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+#google_analytics  : UA-XXXXX-XX
+#twitter_username  : ""
+#comments_enabled  : false # if enabled (set to true), please provide your 
+#disqus_username
+#disqus_shortname  : ""
 postshare_enabled : false
 
 # Build settings
